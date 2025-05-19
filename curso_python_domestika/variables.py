@@ -3,7 +3,7 @@
 nombre = "Santiago"
 apellidos = "Molina Velasquez"
 
-# Numerico
+# Numerico int(interger, entero), float(decimal, punto flotante)
 edad = 21
 
 
@@ -13,4 +13,5 @@ edad = edad / 2
 
 print(nombre, apellidos, edad)
 
-print(type(nombre))
+# Tipo de dato que hay en la variable
+print(type(edad))
